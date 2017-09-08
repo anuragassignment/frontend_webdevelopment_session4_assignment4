@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "noEmitOnError": true,
+        "removeComments": true,
+        "sourceMap": true,
+        "experimentalDecorators": true
+    }
+}
